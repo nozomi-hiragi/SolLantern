@@ -1,0 +1,6 @@
+[package]
+name = "sol_lantern"
+version = "0.1.0"
+authors = ["nozomi hiragi <nozomi.hiragi@gmail.com>"]
+
+[dependencies]
